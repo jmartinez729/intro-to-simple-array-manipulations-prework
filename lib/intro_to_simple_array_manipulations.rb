@@ -38,3 +38,5 @@ array_a = [1, 2]
 array_b = [3, array_a]
 def using_flatten(array_b)
   array_b.flatten
+end 
+
